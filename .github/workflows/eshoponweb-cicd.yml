@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: e2451879-722f-44f6-8d17-db28c223fa17
-  WEBAPP-NAME: az400-webapp-test
+  WEBAPP-NAME: az400-webapp-testapp
 
 
 jobs:
